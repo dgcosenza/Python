@@ -1,4 +1,4 @@
-¡Hello! ¡Welcome to my Python repo!
+Hello! Welcome to my Python repo!
 
 Everything you find here is completely free to use.
 
