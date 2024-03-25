@@ -2,6 +2,9 @@ In this repository, I will be uploading small to large projects and scripts that
 
 Everything you find here is completely free to use.
 
+**Exercises**  
+Directory with plenty of exercises about loops, collections, functions, etc.
+
 **Projects:**
 
 1. [Calculator](https://github.com/dgcosenza/Python/tree/main/Calculator)
